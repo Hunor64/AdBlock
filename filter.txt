@@ -1,0 +1,10 @@
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
+||an.facebook.com^
+||offerwall.yandex.net^
+||auction.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+||iadsdk.apple.com^
