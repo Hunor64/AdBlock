@@ -8,3 +8,4 @@
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||iadsdk.apple.com^
+||samsung-com.112.2o7.net^
